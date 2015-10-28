@@ -1,1 +1,44 @@
 /* Add custom styles here */
+
+body {
+	text-align: center;
+	margin-right: 25px;
+	margin-left: 25px;
+}
+
+#about-image {
+	width: 150px;
+	height: 150px;
+	padding: 7px;
+}
+
+#project-icon {
+	width: 50px;
+	height: 50px;
+}
+
+.container-photo {
+	height: 500px;
+    background-image: url("https://farm1.staticflickr.com/695/21776625886_3d7e3ffd10_k.jpg");
+	background-repeat: none;
+	background-size: cover;
+	margin-right: -30px;
+	margin-left: -30px;
+}
+
+.navbar-home {
+	color: white;
+}
+
+.navbar {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+#portfolio-image {
+	width: 300px;
+}
+
+.cpcf-text {
+	color: white;
+	font-size: 100px;
+}
